@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+
+@theme{
+    --container-container: 90%;
+    --container-container-2: 85%;
+    --font-Source-sans-pro: "Source Sans Pro";
+    --font-Open-sans: "Open Sans";
+    --color-primary:#FFB30E;
+    --color-secondary:#424242;
+    --color-success:#79B93C;
+    --color-btn-bg:#79B93C33;
+    --color-title:#434343;
+    --color-header:#212121;
+    --color-grey:#757575;
+    --color-warning:#F17228;
+    --shadow-nav-login: 0px 80px 80px 0px rgba(255, 174, 0, 0.29);
+
+    /* breakpoints */
+    --breakpoint-hero : 1155px;
+    --breakpoint-hero_2 : 1050px;
+    --breakpoint-hero_3 : 910px;
+    --breakpoint-xs : 320px;
+    --breakpoint-col_1 : 600px;
+    --breakpoint-col_2 : 780px;
+    --breakpoint-daily : 1190px;
+    --breakpoint-daily_2 : 1030px;
+    --breakpoint-city : 800px;
+    --breakpoint-footer : 1000px;
+    --breakpoint-footer_1 : 440px;
+    --breakpoint-footer_2 : 630px;
+    --breakpoint-deals : 1307px;
+    --breakpoint-mobile : 1060px;
+}
